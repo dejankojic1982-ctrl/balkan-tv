@@ -1,27 +1,77 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="BiH / RS",BN TV
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+
 #EXTINF:-1 group-title="BiH / RS",RTRS
-https://uzivo.rtrs.tv/tv/live/index.m3u8
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="BiH / RS",RTRS Plus
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 
-#EXTINF:-1 group-title="BiH / RS",BN TV
-https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 group-title="BiH / RS",Alternativna TV
+https://vpn.komtel.ba/hls/mylivestream.m3u8
+
+#EXTINF:-1 group-title="BiH / RS",BHRT
+#EXTVLCOPT:http-user-agent=Android
+https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+
+#EXTINF:-1 group-title="BiH / RS",TV M
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 group-title="BiH / RS",RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
+
+#EXTINF:-1 group-title="BiH / RS",RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+
+#EXTINF:-1 group-title="BiH / RS",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 
 #EXTINF:-1 group-title="Srbija",Pink TV
 https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 group-title="Hrvatska",HRT 4 TEST
-http://79.127.207.193/HRT4/playlist.m3u8
 
-#EXTINF:-1 group-title="Hrvatska",RTL TEST
-http://89.201.195.79:9981/stream/channelid/1323943180?profile=pass
+#EXTINF:-1 group-title="Srbija",Narodna TV
+https://edge8.pink.rs/narodnatv/playlist.m3u8
 
-#EXTINF:-1 group-title="Hrvatska",RTL 2 TEST
-http://89.201.195.79:9981/stream/channelid/1630449942?profile=pass
+#EXTINF:-1 group-title="Srbija",Red TV
+https://edge8.pink.rs/redtv/index.m3u8
 
-#EXTINF:-1 group-title="Hrvatska",Nova TV HD TEST
-http://89.201.195.79:9981/stream/channelid/294410472?profile=pass
+#EXTINF:-1 group-title="Srbija",Happy TV
+https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Hrvatska",Doma TV TEST
-https://live.s2.cyn.cz/Doma/video.m3u8
+#EXTINF:-1 group-title="Srbija",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+
+#EXTINF:-1 group-title="Srbija",Pi Kanal
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 group-title="Srbija",RT Balkan
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist_1600Kb.m3u8
+
+#EXTINF:-1 group-title="Srbija",RTV 1
+http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
+
+#EXTINF:-1 group-title="Srbija",RTV 2
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
+
+#EXTINF:-1 group-title="Srbija",Studio B
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Crna Gora",CG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Crna Gora",CG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Crna Gora",CG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Kosovo",ATV Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+
+#EXTINF:-1 group-title="Kosovo",Pro 1 Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+
+#EXTINF:-1 group-title="Kosovo",T7 Kosovo
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/tracks-v2a1/rewind-14400.ts.m3u8
