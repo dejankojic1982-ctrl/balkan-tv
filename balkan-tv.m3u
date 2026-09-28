@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="BiH / RS",RTRS
+https://uzivo.rtrs.tv/tv/live/index.m3u8
+
+#EXTINF:-1 group-title="BiH / RS",RTRS Plus
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+
+#EXTINF:-1 group-title="BiH / RS",BN TV
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+
+#EXTINF:-1 group-title="Srbija",Pink TV
+https://edge8.pink.rs/pinktv/index.m3u8
