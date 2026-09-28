@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Hrvatska",HRT 4 TEST
+http://79.127.207.193/HRT4/playlist.m3u8
+
+#EXTINF:-1 group-title="Hrvatska",RTL TEST
+http://89.201.195.79:9981/stream/channelid/1323943180?profile=pass
+
+#EXTINF:-1 group-title="Hrvatska",RTL 2 TEST
+http://89.201.195.79:9981/stream/channelid/1630449942?profile=pass
+
+#EXTINF:-1 group-title="Hrvatska",Nova TV HD TEST
+http://89.201.195.79:9981/stream/channelid/294410472?profile=pass
+
+#EXTINF:-1 group-title="Hrvatska",Doma TV TEST
+https://live.s2.cyn.cz/Doma/video.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="BravoKidsTV.hr@SD",Hrvatska | Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="CMCTV.hr@SD",Hrvatska | CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="DiadoraTV.hr@SD",Hrvatska | Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="HRT1.hr@SD",Hrvatska | HRT 1 (720p)
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="HRT2.hr@SD",Hrvatska | HRT 2 (720p)
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="HRT3.hr@SD",Hrvatska | HRT 3 (720p)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="KlapeiTambureTV.hr@SD",Hrvatska | Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="Klasik.hr@SD",Hrvatska | Klasik TV (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="LibertasTV.hr@SD",Hrvatska | Libertas TV (1080p)
+https://stream.luci.xyz/hls/LTV.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="NationalGeographic.hr@SD",Hrvatska | National Geographic (1080p)
+http://176.61.157.250/NationalGeographic/index.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="Nickelodeon.hr@SD",Hrvatska | Nickelodeon (1080p)
+http://176.61.157.250/Nickelodeon/index.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="NovaTV.hr@SD",Hrvatska | Nova TV (1080p)
+http://176.61.157.250/NovaTV/index.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="OTV.hr@SD",Hrvatska | OTV (720p) [Not 24/7]
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="RadioTelevizijaBanovina.hr@SD",Hrvatska | Radio Televizija Banovina (1080p) [Not 24/7]
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="SBTV.hr@SD",Hrvatska | SBTV (1080p) [Not 24/7]
+https://live.leveex.hr/hls/live.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="ShiftTV.hr@SD",Hrvatska | Shift TV (1080p)
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="STV.hr@SD",Hrvatska | STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="TrendTV.hr@SD",Hrvatska | Trend TV (480p)
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="TVJadran.hr@SD",Hrvatska | TV Jadran (720p) [Not 24/7]
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="TVNova.hr@SD",Hrvatska | TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="TVZapad.hr@SD",Hrvatska | TV Zapad (1080p) [Not 24/7]
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Hrvatska" tvg-id="NickJr.hr@SD",Hrvatska | Nick Jr. (540p)
+http://176.61.157.250/NickJr/index.m3u8
