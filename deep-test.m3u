@@ -1,0 +1,69 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="HRT1.hr" group-title="HR DEEP TEST",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+
+#EXTINF:-1 tvg-id="HRT2.hr" group-title="HR DEEP TEST",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+
+#EXTINF:-1 tvg-id="HRT3.hr" group-title="HR DEEP TEST",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+
+#EXTINF:-1 tvg-id="RTLCroatia.hr" group-title="HR DEEP TEST",RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL2Croatia.hr" group-title="HR DEEP TEST",RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLKockica.hr" group-title="HR DEEP TEST",RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMCTV.hr" group-title="HR DEEP TEST",CMC
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="SportskaTV.hr" group-title="HR DEEP TEST",Sportska TV
+https://stream.agatin.hr:3087/live/sptvlive.m3u8
+
+#EXTINF:-1 tvg-id="SBTV.hr" group-title="HR DEEP TEST",SBTV
+https://live.leveex.hr/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="TVJadran.hr" group-title="HR DEEP TEST",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+
+#EXTINF:-1 group-title="HR DEEP TEST",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+
+#EXTINF:-1 group-title="HR DEEP TEST",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 tvg-id="Pink.rs" group-title="RS DEEP TEST",Pink
+https://live.rednet.rs/providus/pink1.m3u8
+
+#EXTINF:-1 tvg-id="RedTV.rs" group-title="RS DEEP TEST",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 tvg-id="KurirTV.rs" group-title="RS DEEP TEST",Kurir TV
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.rs" group-title="RS DEEP TEST",RTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" group-title="RS DEEP TEST",RTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" group-title="RS DEEP TEST",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Happy.rs" group-title="RS DEEP TEST",Happy
+https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVHram.rs" group-title="RS DEEP TEST",TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" group-title="RS DEEP TEST",RTV Novi Pazar
+https://hls.rtvnp.rs/tvlive/75e168bf8304fe9b1fac9a6c2f702d590e1cf986.m3u8
