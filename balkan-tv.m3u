@@ -1,7 +1,8 @@
 #EXTM3U
-# TEST RUNDA 3 - 2026-09-29
+# TEST RUNDA 4 - PUBLIC DIRECT STREAMOVI IZ KODI/IPTV REPOA
 # Potvrdjeno rade: T01 T02 T07 T11 T12 T13 T14 T15 T24
-# Novi kandidati: T25-T34
+# Novi kandidati: T35-T50
+# Namjerno izbaceni svi URL-ovi sa username/password/MAC/token pristupom.
 
 #EXTINF:-1 group-title="POTVRDJENO RADI",T01 BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
@@ -31,32 +32,50 @@ https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 group-title="POTVRDJENO RADI",T24 RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 
-#EXTINF:-1 group-title="HR NOVO",T25 HRT 1 - hls9
-https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8
+#EXTINF:-1 group-title="NOVO BIH",T35 Alternativna TV
+https://vpn.komtel.ba/hls/mylivestream.m3u8
 
-#EXTINF:-1 group-title="HR NOVO",T26 HRT 2 - hls9
-https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8
+#EXTINF:-1 group-title="NOVO BIH",T36 RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
 
-#EXTINF:-1 group-title="HR NOVO",T27 HRT 3 - hls9
-https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+#EXTINF:-1 group-title="NOVO BIH",T37 RTV Herceg-Bosne
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
-#EXTINF:-1 group-title="HR NOVO",T28 Doma TV - alternativni izvor
-http://169.150.255.53/DomaTV/index.m3u8
+#EXTINF:-1 group-title="NOVO HR",T38 CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 
-#EXTINF:-1 group-title="SRB NOVO",T29 RTS 1 - hls19
-https://webtvstream.bhtelecom.ba/hls19/rts1_1200.m3u8
+#EXTINF:-1 group-title="NOVO HR",T39 Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
 
-#EXTINF:-1 group-title="SRB NOVO",T30 RTS 2 - hls9
-https://webtvstream.bhtelecom.ba/hls9/rts2_1200.m3u8
+#EXTINF:-1 group-title="NOVO HR",T40 TV Nova - lokalna
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 
-#EXTINF:-1 group-title="SRB NOVO",T31 RTS Svet
-https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 group-title="NOVO HR",T41 Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
 
-#EXTINF:-1 group-title="SRB NOVO",T32 Informer TV
-https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1 group-title="NOVO HR",T42 TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 
-#EXTINF:-1 group-title="SRB NOVO",T33 Euronews Serbia
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8
+#EXTINF:-1 group-title="NOVO HR",T43 Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
 
-#EXTINF:-1 group-title="SRB NOVO",T34 TV AS
-https://de1.dstvmultimedia.com/TVAS/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="NOVO HR",T44 SBTV
+https://live.leveex.hr/hls/live.m3u8
+
+#EXTINF:-1 group-title="NOVO REGIJA",T45 Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T46 DM Sat
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T47 Muzzik Rock and Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T48 TV Hram
+https://vod1.laki.eu/live/hram/index.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T49 Pruga TV
+https://stream.pruga.rs:8443/live/pruga/index.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T50 RTV AS
+https://srv1.adriatelekom.com/TVAS/index.m3u8
