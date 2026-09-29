@@ -1,0 +1,11 @@
+services:
+  xtream-test:
+    build: .
+    container_name: balkan-tv-xtream-test
+    restart: unless-stopped
+    ports:
+      - "8090:8090"
+    environment:
+      PORT: "8090"
+      XTREAM_USER: "test_user"
+      XTREAM_PASS: "test_pass"
