@@ -1,7 +1,7 @@
 #EXTM3U
-# TEST RUNDA 5 - javni direktni streamovi bez naloga/tokena
-# Potvrdjeno rade: T01 T02 T07 T11 T12 T13 T14 T15 T24 T36 T37 T38 T39 T40 T41 T42 T43 T44 T48
-# Novi kandidati: T51-T71
+# TEST RUNDA 6 - Vavoo javni play URL-ovi sa source headerima
+# Potvrdjeno rade: T01 T02 T07 T11 T12 T13 T14 T15 T24 T36 T37 T38 T39 T40 T41 T42 T43 T44 T48 T53 T57 T59 T61 T68 T69
+# Novi kandidati: T72-T85
 
 #EXTINF:-1 group-title="POTVRDJENO RADI",T01 BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
@@ -61,56 +61,17 @@ https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 group-title="POTVRDJENO RADI",T48 TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 
-#EXTINF:-1 group-title="NOVO SRB",T51 Insajder TV
-https://tv.liveott.online/INSAJDER_TV.m3u8
-
-#EXTINF:-1 group-title="NOVO SRB",T52 Hype TV
-https://tv.liveott.online/Hype_TV.m3u8
-
 #EXTINF:-1 group-title="NOVO SRB",T53 RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
-
-#EXTINF:-1 group-title="NOVO SRB",T54 TV Belle Amie
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVO SRB",T55 TV Duga Plus
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVO SRB",T56 TV Kanal M
-http://176.67.210.1/hls/kanalm.m3u8
 
 #EXTINF:-1 group-title="NOVO SRB",T57 TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 
-#EXTINF:-1 group-title="NOVO SRB",T58 TV Pirot
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
-
 #EXTINF:-1 group-title="NOVO HR",T59 STV Hrvatska
 http://89.201.163.244:8080/hls/hdmi.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T60 Osjecka TV
-https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
-
 #EXTINF:-1 group-title="NOVO HR",T61 Kanal Ri
 https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
-
-#EXTINF:-1 group-title="NOVO HR",T62 Trend TV
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVO HR",T63 TV Zapad - A
-http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="NOVO HR",T64 TV Zapad - B
-http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-
-#EXTINF:-1 group-title="NOVO BIH",T65 RTV Glas Drine
-http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVO BIH",T66 Sevdah TV
-https://restreamer2.tnt.ba/hls/stream.m3u8
-
-#EXTINF:-1 group-title="NOVO BIH",T67 TNT Kids
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
 
 #EXTINF:-1 group-title="NOVO BIH",T68 Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
@@ -118,9 +79,72 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 group-title="NOVO BIH",T69 Televizija M
 https://live.tv-m.net/hls/stream.m3u8
 
-#EXTINF:-1 group-title="NOVO BIH",T70 MIS TV
-https://5afd52b55ff79.streamlock.net/MISTV/myStream/ILIJA.m3u8
+#EXTINF:-1 group-title="VAVOO HR",T72 HRT 1 - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/450526005/index.m3u8
 
-#EXTINF:-1 group-title="NOVO BIH",T71 B1 TV
-http://proxy.bihnet.net:88/live/b1tv.m3u8
+#EXTINF:-1 group-title="VAVOO HR",T73 HRT 2 - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/1568276965/index.m3u8
 
+#EXTINF:-1 group-title="VAVOO HR",T74 HRT 3 - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/1612326997/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO HR",T75 HRT 4 - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/3527078981/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO HR",T76 RTL Hrvatska - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/4154768953/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO HR",T77 RTL Kockica - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/3920461683/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO HR",T78 Nova TV Hrvatska - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/2223753201/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO SRB",T79 RTS 1 - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/3977868689/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO SRB",T80 RTS 2 - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/2864254785/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO SRB",T81 RTS 3 - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/2547590897/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO SRB",T82 Prva TV - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/50943656/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO SRB",T83 Happy TV - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/1442214730/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO BIH",T84 Nova BH - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/4232673163/index.m3u8
+
+#EXTINF:-1 group-title="VAVOO BIH",T85 Pink BH - Vavoo
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/2333021344/index.m3u8
