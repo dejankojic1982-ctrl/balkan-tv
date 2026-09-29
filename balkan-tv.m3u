@@ -1,55 +1,53 @@
 #EXTM3U
-# TEST 2026-09-29 - kratka lista za TiviMate
+# TEST RUNDA 2 - 2026-09-29
+# Potvrdjeno rade: T01 T02 T07 T11 T12 T13 T14 T15
+# Novi kandidati za test: T17-T24
 
-#EXTINF:-1 group-title="KONTROLA",T01 BN TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T01 BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
 
-#EXTINF:-1 group-title="KONTROLA",T02 Pink TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T02 Pink TV
 https://edge8.pink.rs/pinktv/index.m3u8
 
-#EXTINF:-1 group-title="HR TEST",T03 HRT 1 - bez headera
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-
-#EXTINF:-1 group-title="HR TEST",T04 HRT 1 - sa User-Agent
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-
-#EXTINF:-1 group-title="HR TEST",T05 HRT 2 - sa User-Agent
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
-
-#EXTINF:-1 group-title="HR TEST",T06 HRT 3 - sa User-Agent
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-
-#EXTINF:-1 group-title="BIH TEST",T07 BHRT - Android UA
+#EXTINF:-1 group-title="POTVRDJENO RADI",T07 BHRT
 #EXTVLCOPT:http-user-agent=Android
 https://bhrtstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 
-#EXTINF:-1 group-title="BIH TEST",T08 RTRS Plus - normalno
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-
-#EXTINF:-1 group-title="BIH TEST",T09 RTRS Plus - VLC UA
-#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-
-#EXTINF:-1 group-title="SRB TEST",T10 Red TV
-https://edge8.pink.rs/redtv/index.m3u8
-
-#EXTINF:-1 group-title="SRB TEST",T11 Narodna TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T11 Narodna TV
 https://edge8.pink.rs/narodnatv/playlist.m3u8
 
-#EXTINF:-1 group-title="SRB TEST",T12 Kurir TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T12 Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 
-#EXTINF:-1 group-title="SRB TEST",T13 RTV 1
+#EXTINF:-1 group-title="POTVRDJENO RADI",T13 RTV 1
 http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
 
-#EXTINF:-1 group-title="SRB TEST",T14 RTV 2
+#EXTINF:-1 group-title="POTVRDJENO RADI",T14 RTV 2
 http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 
-#EXTINF:-1 group-title="CG TEST",T15 TVCG MNE
+#EXTINF:-1 group-title="POTVRDJENO RADI",T15 TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 
-#EXTINF:-1 group-title="HR TEST",T16 Sportska TV
-https://stream.agatin.hr:3087/live/sptvlive.m3u8
+#EXTINF:-1 group-title="HR NOVO",T17 RTL Hrvatska
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+
+#EXTINF:-1 group-title="HR NOVO",T18 RTL 2 Hrvatska
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+
+#EXTINF:-1 group-title="HR NOVO",T19 RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+
+#EXTINF:-1 group-title="HR NOVO",T20 Nova TV Hrvatska
+http://176.61.157.250/NovaTV/index.m3u8
+
+#EXTINF:-1 group-title="SRB NOVO",T21 Happy TV
+https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="SRB NOVO",T22 RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 group-title="SRB NOVO",T23 Red TV - alternativni stream
+https://edge8.pink.rs/redtv/chunklist_w1213385221.m3u8
+
+#EXTINF:-1 group-title="SRB NOVO",T24 RT Balkan
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
