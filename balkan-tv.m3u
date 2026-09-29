@@ -1,8 +1,7 @@
 #EXTM3U
-# TEST RUNDA 4 - PUBLIC DIRECT STREAMOVI IZ KODI/IPTV REPOA
-# Potvrdjeno rade: T01 T02 T07 T11 T12 T13 T14 T15 T24
-# Novi kandidati: T35-T50
-# Namjerno izbaceni svi URL-ovi sa username/password/MAC/token pristupom.
+# TEST RUNDA 5 - javni direktni streamovi bez naloga/tokena
+# Potvrdjeno rade: T01 T02 T07 T11 T12 T13 T14 T15 T24 T36 T37 T38 T39 T40 T41 T42 T43 T44 T48
+# Novi kandidati: T51-T71
 
 #EXTINF:-1 group-title="POTVRDJENO RADI",T01 BN TV
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
@@ -32,50 +31,96 @@ https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 group-title="POTVRDJENO RADI",T24 RT Balkan
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 
-#EXTINF:-1 group-title="NOVO BIH",T35 Alternativna TV
-https://vpn.komtel.ba/hls/mylivestream.m3u8
-
-#EXTINF:-1 group-title="NOVO BIH",T36 RTV Zenica
+#EXTINF:-1 group-title="POTVRDJENO RADI",T36 RTV Zenica
 https://stream.rtvze.ba/live/123/123.m3u8
 
-#EXTINF:-1 group-title="NOVO BIH",T37 RTV Herceg-Bosne
+#EXTINF:-1 group-title="POTVRDJENO RADI",T37 RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T38 CMC TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T38 CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T39 Klape i Tambure TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T39 Klape i Tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T40 TV Nova - lokalna
+#EXTINF:-1 group-title="POTVRDJENO RADI",T40 TV Nova - lokalna
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T41 Diadora TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T41 Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T42 TV Jadran
+#EXTINF:-1 group-title="POTVRDJENO RADI",T42 TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T43 Libertas TV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T43 Libertas TV
 https://stream.luci.xyz/hls/LTV.m3u8
 
-#EXTINF:-1 group-title="NOVO HR",T44 SBTV
+#EXTINF:-1 group-title="POTVRDJENO RADI",T44 SBTV
 https://live.leveex.hr/hls/live.m3u8
 
-#EXTINF:-1 group-title="NOVO REGIJA",T45 Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-
-#EXTINF:-1 group-title="NOVO SRB",T46 DM Sat
-https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
-
-#EXTINF:-1 group-title="NOVO SRB",T47 Muzzik Rock and Roll
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVO SRB",T48 TV Hram
+#EXTINF:-1 group-title="POTVRDJENO RADI",T48 TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 
-#EXTINF:-1 group-title="NOVO SRB",T49 Pruga TV
-https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1 group-title="NOVO SRB",T51 Insajder TV
+https://tv.liveott.online/INSAJDER_TV.m3u8
 
-#EXTINF:-1 group-title="NOVO SRB",T50 RTV AS
-https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 group-title="NOVO SRB",T52 Hype TV
+https://tv.liveott.online/Hype_TV.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T53 RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T54 TV Belle Amie
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T55 TV Duga Plus
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T56 TV Kanal M
+http://176.67.210.1/hls/kanalm.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T57 TV Pi Kanal
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 group-title="NOVO SRB",T58 TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVO HR",T59 STV Hrvatska
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 group-title="NOVO HR",T60 Osjecka TV
+https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
+
+#EXTINF:-1 group-title="NOVO HR",T61 Kanal Ri
+https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+
+#EXTINF:-1 group-title="NOVO HR",T62 Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVO HR",T63 TV Zapad - A
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="NOVO HR",T64 TV Zapad - B
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
+
+#EXTINF:-1 group-title="NOVO BIH",T65 RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVO BIH",T66 Sevdah TV
+https://restreamer2.tnt.ba/hls/stream.m3u8
+
+#EXTINF:-1 group-title="NOVO BIH",T67 TNT Kids
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+
+#EXTINF:-1 group-title="NOVO BIH",T68 Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+
+#EXTINF:-1 group-title="NOVO BIH",T69 Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 group-title="NOVO BIH",T70 MIS TV
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/ILIJA.m3u8
+
+#EXTINF:-1 group-title="NOVO BIH",T71 B1 TV
+http://proxy.bihnet.net:88/live/b1tv.m3u8
+
